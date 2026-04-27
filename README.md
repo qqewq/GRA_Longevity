@@ -1,3 +1,5 @@
+https://orcid.org/my-orcid?orcid=0009-0004-1872-1153
+https://doi.org/10.5281/zenodo.19808401
 # GRA Longevity: 150+ лет здоровой жизни через многоуровневую GRA-обнулёнку
 
 Проект объединяет биологию, геронтологию и аппарат Geometric Recursive Analytics (GRA) для системного подавления «пены старения».  
