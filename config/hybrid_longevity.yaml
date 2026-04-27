@@ -1,0 +1,12 @@
+structure:
+  levels:
+    0: {type: static, dim: 10}   # клеточные биомаркеры
+    1: {type: cyclic, period: 24}  # суточные ритмы
+    2: {type: chaotic}             # иммунная вариабельность
+goal_tree:
+  '0': {vector: [1,1,1,1,1,1,1,1,1,1], type: static}
+  '1': {vector: [1,0,0,0,0], type: cyclic, cycle_period: 24}
+  '2': {vector: [0,0,0,0,0], type: chaotic}
+damage_rate: 0.01
+mortality_threshold: 3.0
+foam_penalty_weight: 0.1

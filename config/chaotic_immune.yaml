@@ -1,0 +1,8 @@
+structure:
+  levels:
+    0: {type: chaotic}
+goal_tree:
+  '0': {vector: [0,0,0,0,0], type: chaotic}
+damage_rate: 0.01
+mortality_threshold: 3.0
+foam_penalty_weight: 0.1

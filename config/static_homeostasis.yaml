@@ -1,0 +1,8 @@
+structure:
+  levels:
+    0: {type: static, dim: 10}
+goal_tree:
+  '0': {vector: [1,1,1,1,1,1,1,1,1,1], type: static}
+damage_rate: 0.01
+mortality_threshold: 3.0
+foam_penalty_weight: 0.1

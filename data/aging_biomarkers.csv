@@ -1,0 +1,11 @@
+biomarker,age_30,age_50,age_70,age_90,age_110
+mitochondrial_potential,1.0,0.85,0.65,0.45,0.25
+telomere_length,1.0,0.75,0.50,0.30,0.15
+epigenetic_clock,0.0,0.20,0.45,0.70,0.90
+inflammation_il6,0.1,0.35,0.60,0.85,1.10
+insulin_sensitivity,1.0,0.80,0.55,0.35,0.20
+nad_level,1.0,0.70,0.40,0.20,0.10
+proteostasis,1.0,0.80,0.55,0.30,0.15
+dna_damage,0.0,0.15,0.40,0.65,0.90
+autophagy_rate,1.0,0.75,0.50,0.30,0.15
+stem_cell_reserve,1.0,0.70,0.40,0.20,0.05
